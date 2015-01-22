@@ -36,6 +36,9 @@ ___
 	####YCombinator list
 	- [yclist](http://yclist.com/)
 
+	####Hacking an Interview
+	- [Hacking the google interview](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
+
 ###Books
 - [The Elements of Statistical learning](http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
 

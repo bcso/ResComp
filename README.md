@@ -30,6 +30,7 @@ ___
 ###Job Hunting
 - [List of Common Questions ](https://oj.leetcode.com/problems/)
 - [Some more questions (github)](https://github.com/senghuot/Interview)
+- [Important Concepts](https://github.com/stolksdorf/CS-Compendium)
 
 	**Project management**
 	- [Hackpad blog](https://productmanagement.hackpad.com/I-love-Product-Management-LNdfwFBKtoO)

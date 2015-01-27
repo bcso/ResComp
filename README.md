@@ -42,7 +42,7 @@ ___
 
 	####Locations
 	- [Places to look out for](http://a16z.com/seeds/)
-	- creds to [@KevinMichael](kevin1michael)
+	- creds to [@KevinMichael](https://github.com/kevin1michael)
 
 ###Books
 - [The Elements of Statistical learning](http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)

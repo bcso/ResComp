@@ -40,6 +40,10 @@ ___
 	####Hacking an Interview
 	- [Hacking the google interview](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
 
+	####Locations
+	- [Places to look out for](http://a16z.com/seeds/)
+	- creds to [@KevinMichael](kevin1michael)
+
 ###Books
 - [The Elements of Statistical learning](http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
 

@@ -34,7 +34,8 @@ ___
 
 	**Project management**
 	- [Hackpad blog](https://productmanagement.hackpad.com/I-love-Product-Management-LNdfwFBKtoO)
-
+	- [PM Questions](http://www.thepminterview.com)
+	
 	**YCombinator list**
 	- [yclist](http://yclist.com/)
 

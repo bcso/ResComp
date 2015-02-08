@@ -19,6 +19,7 @@ ___
 - [Free Domain Names](http://register.freenom.com/)
 - [Parralax tings](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
 - [Rails tutorials](https://medium.com/@mackenziechild/how-i-finally-learned-rails-95e9b832675b)
+- [CS Handbook](http://www.thecshandbook.com/)
 
 	**Node.js**
 	- [Node.js usage](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js)

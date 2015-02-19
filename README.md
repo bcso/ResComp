@@ -7,6 +7,10 @@ ___
 - [Video Hive](http://videohive.net/)
 - [Destroy your website](http://kickassapp.com/)
 - [Beautiful Forms](http://www.typeform.com/)
+- [Flaticons](http://flaticons.net/)
+- [FlatUI Color picker](http://www.flatuicolorpicker.com/)
+- [Polymer](https://www.polymer-project.org/)
+- [Design for Hackers](http://designforhackers.com/)
 
 	**Large Splashes**
 	- [unsplash](https://unsplash.com/)
@@ -14,6 +18,7 @@ ___
 
 	**Fonts**
 	- [Font Brown](http://fontsinuse.com/typefaces/7385/ll-brown)
+
 
 ###Implementation Resources
 - [Free Domain Names](http://register.freenom.com/)

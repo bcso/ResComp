@@ -27,6 +27,7 @@ ___
 - [CS Handbook](http://www.thecshandbook.com/)
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 - [Hyperpolyglot (comparison cheat sheet)](http://hyperpolyglot.org/cpp)
+- [Learn x in y mintues](http://learnxinyminutes.com/)
 
 	**Node.js**
 	- [Node.js usage](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js)

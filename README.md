@@ -38,6 +38,7 @@ ___
 
 ###Job Hunting
 - [List of Common Questions ](https://oj.leetcode.com/problems/)
+- [List of Common DS Interview Questions ](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
 - [Some more questions (github)](https://github.com/senghuot/Interview)
 - [Important Concepts](https://github.com/stolksdorf/CS-Compendium)
 

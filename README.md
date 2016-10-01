@@ -68,7 +68,8 @@ ___
 	- [Handmade Hero (Casey)](http://mollyrocket.com/casey/about.html)
 	- [Handmade Hero (Stream)](http://www.twitch.tv/handmade_hero)
 
-
-
+###Papers
+- [GitXiv Collaborative Open Source CS](http://www.gitxiv.com/)
+- [Open Access to e-prints in Phys/Math/CS/Bio/QuantFin/Stats](https://arxiv.org/)
 
 

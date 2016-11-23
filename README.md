@@ -23,6 +23,7 @@ ___
 - [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6#.9d57juw8x)
 
 ###Implementation Resources
+- [****Free getting started to code](http://upskillcourses.com/p/essential-web-developer-course)
 - [Free Domain Names](http://register.freenom.com/)
 - [Parralax tings](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
 - [Rails tutorials](https://medium.com/@mackenziechild/how-i-finally-learned-rails-95e9b832675b)

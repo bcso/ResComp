@@ -76,3 +76,5 @@ ___
 - [Open Access to e-prints in Phys/Math/CS/Bio/QuantFin/Stats](https://arxiv.org/)
 
 
+###Machine Learning
+- [(Stanford) CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)

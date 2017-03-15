@@ -11,6 +11,7 @@ ___
 - [FlatUI Color picker](http://www.flatuicolorpicker.com/)
 - [Polymer](https://www.polymer-project.org/)
 - [Design for Hackers](http://designforhackers.com/)
+- [Images and Sketches of popular devices](http://facebook.design/devices)
 
 	**Large Splashes**
 	- [unsplash](https://unsplash.com/)

@@ -1,8 +1,8 @@
-#List of Noteworthy Resources
+# List of Noteworthy Resources
 ___
 
 
-###Design Resources
+### Design Resources
 - [Panda - Compendium of design resources](https://usepanda.com/app/#/)
 - [Video Hive](http://videohive.net/)
 - [Destroy your website](http://kickassapp.com/)
@@ -20,10 +20,10 @@ ___
 	**Fonts**
 	- [Font Brown](http://fontsinuse.com/typefaces/7385/ll-brown)
 
-###Data bases
+### Data bases
 - [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6#.9d57juw8x)
 
-###Implementation Resources
+### Implementation Resources
 - [****Free getting started to code](http://upskillcourses.com/p/essential-web-developer-course)
 - [Free Domain Names](http://register.freenom.com/)
 - [Parralax tings](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
@@ -40,7 +40,7 @@ ___
 	- [Clojure tutorial](http://www.4clojure.com/)
 
 
-###Job Hunting
+### Job Hunting
 - [List of Common Questions ](https://oj.leetcode.com/problems/)
 - [List of Common DS Interview Questions ](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
 - [Some more questions (github)](https://github.com/senghuot/Interview)
@@ -53,17 +53,17 @@ ___
 	**YCombinator list**
 	- [yclist](http://yclist.com/)
 
-	####Hacking an Interview
+	#### Hacking an Interview
 	- [Hacking the google interview](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
 
-	####Locations
+	#### Locations
 	- [Places to look out for](http://a16z.com/seeds/)
 	- creds to [@KevinMichael](https://github.com/kevin1michael)
 
-###Books
+### Books
 - [The Elements of Statistical learning](http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
 
-###Misc
+### Misc
 - [Hacker Rank](https://www.hackerrank.com/)
 - [Getting stars on repo](https://medium.com/@cwRichardKim/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2)
 - [Hacker Queue](http://hackerqueue.io/)
@@ -72,10 +72,10 @@ ___
 	- [Handmade Hero (Casey)](http://mollyrocket.com/casey/about.html)
 	- [Handmade Hero (Stream)](http://www.twitch.tv/handmade_hero)
 
-###Papers
+### Papers
 - [GitXiv Collaborative Open Source CS](http://www.gitxiv.com/)
 - [Open Access to e-prints in Phys/Math/CS/Bio/QuantFin/Stats](https://arxiv.org/)
 
 
-###Machine Learning
+### Machine Learning
 - [(Stanford) CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
